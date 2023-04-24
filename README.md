@@ -27,7 +27,7 @@ Being physically active can improve your brain health, help manage weight, reduc
 # _About Project_
 
 This is an individual project. Everything is created by me. This website is not a clone of any other website. This is a simple body exercise app. It contains more than a thousand exercises.
-I have also created it's api. You can refer to the repo for more details. [(Server)](https://github.com/SaurabhSinghRbz/fitness-club-server)
+I have also created it's api. You can refer to the repo for more details. [(Server)](https://github.com/iabdukhoshimov/react-fitness-app)
 
 
 ## Features of website :
@@ -44,7 +44,7 @@ I have also created it's api. You can refer to the repo for more details. [(Serv
 
 First you need to clone or download this project from here.
 
-https://github.com/SaurabhSinghRbz/fitness-react-project.git
+https://github.com/iabdukhoshimov/react-fitness-app
 
 After cloning the project you need to install its dependencies, for this run this command.
 Do this in both folders (client and Server)
